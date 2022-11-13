@@ -1,0 +1,8 @@
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest.git
+	branch = v1.12.x
+[submodule "libgit2"]
+	path = libgit2
+	url = https://github.com/libgit2/libgit2.git
+	branch = maint/v1.5
